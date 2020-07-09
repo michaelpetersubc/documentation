@@ -2,14 +2,14 @@
 
 Creating an ec2 instance on aws is easy enough, but slow because of the console.  There is another way to do it from the command line that has two advantages.  It is faster because you won't have to look up your credentials and log in to the aws console.  Then, when you are finished, it is easy to destroy all the resources you created - an important part of making sure you aren't paying for an ec2 instance that isn't doing anything.
 
-In this note I'll explain how to start and instance from your command line using an image that you have previously created.  Once you are set up this is the workflow:
+In this note I'll explain how to start an instance from your command line using an image that you have previously created.  Once you are set up this is the workflow:
 
 1. At the command line type `terraform apply`.
 1. Wait for a bit for the instance to be created - seems to take about 5 minutes.
 1.  ssh to your instance using the url that is returned by terraform and do your work.
 1. When you are finished, exit from your ssh connection and type `terraform destroy`.
 
-To get this to work you'll need an aws account with an aws_access_key_id and and aws_secret_access_key.   You'll need to provide the name that you gave to these keys when you created them  when you edit the terraform file I will provide below.  I am going to call the keys `my_aws_key_name`  when I use it in the file below.
+To get this to work you'll need an aws account with an aws_access_key_id and and aws_secret_access_key.   You'll need to provide the name that you gave to these keys when you created them  when you edit the terraform file I will provide below.  I am going to call the keys `my_aws_key_name`  when I use it below.
 
 If you have used an ec2 instance before, you'll know the name of your keys.  If you haven't, you will create that name when you create a user (called an iam user in aws).
 
@@ -41,6 +41,7 @@ Anytime you want to start your instance in the future, you can just return to th
 In the directory `my_ec2` that you created, you'll want to create a file called, say `ec2.tf`.   You can copy the one I'll give below, but you'll need to edit two pieces of information.  You'll have to supply the name of you access key pair at aws, and you'll have to provide an ami (computer image) id that works in your region.  I'll explain how to accomplish that below.  
 
 For the moment, if you are using `us-east-2` as your region, you can use the ami id that is in the file. It is a public ami which provides you with a computer running fedora 8 along with some installed software that runs jupyter notebook.
+(** Note - the public ami referred to in this file no longer exists because it was costing too much to maintain it.  You'll have to create your own stored ami or find another public ami to use the method described here.  Make sure to replace the ami given in the code segment below).
 
 Here is the file (is also contained in the github repo):
 ```
