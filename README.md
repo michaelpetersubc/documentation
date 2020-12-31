@@ -1,3 +1,3 @@
-# Documentation for the vse at aws
+# Documentation
 
-The documentation given here only works for aws users at the vancouver school of economics.
+A collection of markdown documents. Now a private repo.
