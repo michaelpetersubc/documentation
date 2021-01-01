@@ -1,4 +1,4 @@
-# Econ514 - Preliminary
+# Preliminary Course Outline
 
 The course consists of a series of topics in applied game theory.  The first part will illustrate how bayesian game theory can be used to do 
 structural estimation.  The applications will involve models that you should have seen before in your previous classes.  The second half of the 
