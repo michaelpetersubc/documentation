@@ -50,5 +50,5 @@ The following is a partial list of topics in no particular order that will be up
   * check out the various jupyter notebooks associated with applying page rank to outcome data using the command `svn co https://montoya.econ.ubc.ca/svn-econ/Econ515/notebooks/ejm/`
   * [axioms for ranking journals](https://www.jstor.org/stable/3598842?seq=1#metadata_info_tab_contents) by Huerta and Volij May 2004 Econometrica
 10. [Vizing Theorem](https://montoya.econ.ubc.ca/Econ600/vizing.pdf) - graph coloring with an application to scheduling
-10. [Reverse Spectrum Auctions][https://www.youtube.com/watch?v=jf_2_XHrpmE&list=PLEGCF-WLh2RK6lq3iSsiU84rWVee3A-hz&index=38] A series of videos by
+10. [Reverse Spectrum Auctions](https://www.youtube.com/watch?v=jf_2_XHrpmE&list=PLEGCF-WLh2RK6lq3iSsiU84rWVee3A-hz&index=38) A series of videos by
     Tim Roughgarden that you should be able to  understand at this point.
