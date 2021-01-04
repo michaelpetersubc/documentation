@@ -13,30 +13,33 @@ You will get no credit for missed assignments.  Missed Miderm tests will result 
 ### Math Preparation 
 
 * This link leads to a math tutorial written by Martin Osborne at U of Toronto. It contains most of what you will need to know about math as an economics student. Browse through to refresh your knowledge, then go back to it when you encounter a mathematical concept that you don't understand. [Martin Osborne&#39;s Tutorial](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i).
-* This year we'll be working with a bunch of software.  You can find all the software you'll probably ever want to use in economics on [https://vse.syzygy.ca](https://vse.syzygy.ca).  This  includes a program called [sagemath](https://sagemath.org) which is useful for doing symbolic an computational math.  The site includes the statistical software package R, python 2 and 3 (use version 3 when you can because version 2 is deprecated now).  There is also the software Julia which is used for computations.  You can install any of these software programs on your own computer if you are patient enough.
-* I'll put the jupyter notebooks we'll be using for the course on [Github](https://github.com).  You'll eventually need to learn git, but you won't need an account on github.  The website does a really good job of displaying jupyter notebooks so I'll put links to github notebooks on the web page. 
+* You will probably find it helpful to install some software on your computer.  This is primarily a theory course, but in a couple of places you'll see some data
+  will help you understand many of the concepts.  We'll also use some mathematics software that you'll find useful pretty much whenever you are try to find theoretical solutioos to problems. You can find python and R on  [https://syzygy.ca](https://syzygy.ca).  However, you'll find it more useful to install jupyter notebooks using [sagemath](https://sagemath.org) on your own computer.  This will give you a symbolic algegra program similar to mathematica or maple and a python kernel.  If you install jupyterlab you'll have access to a symbolic math program, python, a latex editor and a markdown editor, all in a tab in your web browser.  This course outline was written in a jupyter notebook. Notebooks are interactive so you can experiment with programming at the same time that you are learning economics. You'll have access to a number of jupyter notebooks used in the course on [Github](https://github.com).  Since github displays notebooks very nicely, I'll provide some direct links to course notebooks. 
 
 ### Basic Game Theory
 
 The first part of the course reviews basic game theory.  It then proceeds to show you how this theory is used in some very well known economics problems.
- <ul class="link-list">
-  <li><a href=http://montoya.econ.ubc.ca/Econ306/mcafee_matrix_games.pdf>Now chapter 16 in McAfee's text, pages 215 - 221</a>.  The  newest version of the full text is at <a href="http://www.muhlenberg.edu/media/contentassets/pdf/economicanalysis/IEA.pdf">http://www.muhlenberg.edu/media/contentassets/pdf/economicanalysis/IEA.pdf</a>.
-  <li><a href=http://montoya.econ.ubc.ca/Econ306/price_of_anarchy.pdf>Price of Anarchy</a>. This is the reading that goes along with the discussion of computer networks.
-  <li><a href=http://montoya.econ.ubc.ca/Econ306/centipede_game.pdf>Centipede game</a> a simple game of imperfect information
-  <li>Additionally you may want to check <a href=http://montoya.econ.ubc.ca/Econ306/mcafee_two_period_games.pdf>McAfee text, two period games and subgame perfection</a>
-  <li>Section 7.2 -7.4 in McAfee<li><a href=http://montoya.econ.ubc.ca/Econ306/directed_search.pdf>Directed Search</a>
-  </ul>
-<li>Matching and Deferred Acceptance
-  <ul class="link-list">
-     <li><a href=http://www.nber.org/papers/w13225.pdf>Al Roth Deferred Acceptance - History Theory and Practice</a>
-    <li> <a href="https://cocalc.com/share/35ad1c94-f2a8-450f-86a5-c848f7ac4af1/algorithm.ipynb?viewer=share">Vancouver School Board Special Programs Example</a>
-    <li><a href=http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf>Reading on how to do the algorithm</a>
-  </ul> 
-  <li>Auctions
-   <ul class="link-list">
-     <li> <a href="http://montoya.econ.ubc.ca/Econ306/position.pdf">Position Auctions</a>
-     <li><a href="http://montoya.econ.ubc.ca/Econ600/auction_reading.pdf"> A reading on the various auctions </a>
-     <li> <a href=http://montoya.econ.ubc.ca/Econ306/auctions_mcafee.pdf>Section 7.6 in McAfee</a>
-     <li> <a href=http://montoya.econ.ubc.ca/Econ306/double_auctions.pdf>eBay and Competing Auctions</a>
-.  </ul>
-</ol>
+
+1. Elementary stuff 
+  * [Matrix Games](http://montoya.econ.ubc.ca/Econ306/mcafee_matrix_games.pdf) 
+  * [An Economics Experiment - courtesy of Terri Kneeland](https://github.com/michaelpetersubc/notebooks/blob/master/Econ515/ring_game/ring_game.ipynb).  To get the data from this experiment, you'll need to copy it directly from [https://github.com/michaelpetersubc/notebooks/blob/master/Econ515/ring_game/ring_game.ipynb](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ring_game).  
+  *  [Price of Anarchy](http://montoya.econ.ubc.ca/Econ306/price_of_anarchy.pdf). Using game theory to start to think about computer networks.
+  * [A jupyter notebook version of the price of anarchy](https://github.com/michaelpetersubc/notebooks/blob/master/Econ306/price_of_anarchy/306_anarchy.ipynb)
+  * [The Centipede game](http://montoya.econ.ubc.ca/Econ306/centipede_game.pdf) A simple game of imperfect information
+  * You may want to check Section 7.2 -7.4 in McAfee for a discussion of subgame perfect equilibrium.
+  * A discussion of [Directed Search](http://montoya.econ.ubc.ca/Econ306/directed_search.pdf) which will show you how to use subgame perfection and incomplete information to discuss a somewhat macro-ish topic.
+
+2. Matching and your first look at algorithms in economics
+  * [Deferred Acceptance](http://www.nber.org/papers/w13225.pdf) - a paper by Al Roth describing the history, theory and practice of this famous algorithm
+  * [Theory and Mechanics of the deferred acceptance algorithm](http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf)
+  * [The Hungarian Algorithm for task allocation and matching with transferable utility](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf) (this file is preliminary)
+  * [A very nice dash app courtesty of Amedeus D'Souza](https://sage.microeconomics.ca) that will show you how matching works in the market for economics ph'd students.
+
+3. Auctions - Theory with Data
+  * [Position Auctions](http://montoya.econ.ubc.ca/Econ306/position.pdf) - pricing google sponsored links (sort of)
+  * [Various well know auctions](http://montoya.econ.ubc.ca/Econ600/auction_reading.pdf)
+  * [The discussion in McAfee since that is what he is famous for](http://montoya.econ.ubc.ca/Econ306/auctions_mcafee.pdf)
+  * [Double Auctions](http://montoya.econ.ubc.ca/Econ306/double_auctions.pdf) - an auction as a market
+  * [Browse Data from eBay processor auctions in 2001](https://montoya.econ.ubc.ca/eBay/main)
+  * [Counterfactual exercise](https://github.com/michaelpetersubc/notebooks/blob/master/processors/ebay-week6.ipynb) courtesy of Wenxin Ma.
+  * [Camera data from eBay](https://github.com/michaelpetersubc/notebooks/tree/master/eBay).  This collection has camera data and a couple of notebooks that start to analyze it.
