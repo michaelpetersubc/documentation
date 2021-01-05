@@ -15,34 +15,35 @@ command line using conda, then `sage -i jupyterlab_widgets`, but suit yourself. 
 basic computer tools you need.
 
 Lectures will be a combination of live and recorded sessions.  There will be extended office hours conducted online where I hang out on [Discord](https://discord.com).  I'll
-provide the server location in class.
+provide the server location in class, but it you know what the honors discord server is, it will be there.
 
 As the class is small enough, grading will be traditional, a mixture of assignments, a midterm (online) and a final.  You'll have the option of replacing these with indvidual
 projects.
 
 Boilerplate reading list stuff will be added shortly.
 
-The following is a partial list of topics in no particular order that will be updated before the start of the course.
+The following is a partial list of topics. The readings will be updated frequently so check back here for changes.
 
-# Topics in Micro
+# Theory, structural estimation, experiments
 
 1. [Review of Bayesian Equilibrium](https://montoya.econ.ubc.ca/Econ600/bayesian.pdf)
-6. Experiment - Ring Game, Terri Kneeland
+6. Experiment - Ring Game, courtesty of Terri Kneeland - first look at elementary structural estimation
   * [Paper](http://www.tkneeland.com/uploads/9/5/4/8/95483354/ecta11983.pdf)
-  * [jupyter notebook](https://montoya.econ.ubc.ca/Econ515/ring_game.slides.html)
+  * [On github](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ring_game)
   * [a short note explaining the game](https://montoya.econ.ubc.ca/Econ306/terri_experiment.pdf)
 2. Experiment - [Ultimatum Game](https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf)
-    * [jupyter notebook](https://montoya.econ.ubc.ca/Econ600/ultimatum_game_2.slides.html)
+    * [On Gitbub](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game)
 3. Auctions
   * [Theory](https://montoya.econ.ubc.ca/Econ600/auctions.pdf)
-  * [Data - eBay computer Chips](tba)
-  * [Data - cameras on eBay](tba)
-4.  Matching
+  * [Data - eBay computer Chips](https://github.com/michaelpetersubc/notebooks/tree/master/processors)
+  * [Data - cameras on eBay](https://github.com/michaelpetersubc/notebooks/tree/master/eBay)
+4.  Matching and algorithms
   * [Lecture Notes for deferred acceptance](http://montoya.econ.ubc.ca/Econ600/matching.pdf)
-  * [Econjobmarket Network](https://montoya.econ.ubc.ca/Econ515/notebooks/ejm/econjobmarket.ipynb)
+  * [Econjobmarket Network](https://sage.microeconomics.ca) - courtesy of Amedeus D'Souza
   * [Directed Search notebook (sagemath)](https://montoya.econ.ubc.ca/Econ600/notebooks/directed_search/directed_search_2.ipynb)
-  * [Directed Search - large game theory](https://montoya.econ.ubc.ca/Econ600/large_games.pdf)
-  * Hungarian Algorithm
+  * [Hungarian Algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
+  
+# Economics and Computer Science
 3. Bayes Nash Equilibrium - Approximation
   * [Jason Hartline - worst case surplus](http://jasonhartline.com/MDnA/MDnA-chX.pdf)
 10. Ranking Methods
