@@ -32,7 +32,9 @@ It is the policy of the VSE to report all violations of UBC’s standards for ac
 
 Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work.
 
-# The following is a partial list of topics. The readings will be updated frequently so check back here for changes.
+# The following is a partial list of topics. 
+
+The readings will be updated frequently so check back here for changes.
 
 ## Theory, structural estimation, experiments
 
