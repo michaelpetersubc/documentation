@@ -1,4 +1,4 @@
-# Preliminary Course Outline
+# Course Outline
 
 The course consists of a series of topics in applied game theory.  The first part will illustrate how bayesian game theory can be used to do 
 structural estimation.  The applications will involve models that you should have seen before in your previous classes.  The second half of the 
@@ -8,23 +8,33 @@ of the economic models that you have already learned.
 There is no textbook for the course, readings will be available online. There will be computation and data analysis used during the course.  It is
 recommended that you use jupyter notebooks since they are a great way of experimenting in python and r.  We'll touch some computation that will require
 math tools.  It is recommended that you install [sagemath using conda](https://doc.sagemath.org/html/en/installation/conda.html).  This will give you a basic 
-computational mathematical tools and the abillity to use python.
+computational mathematical tools and the ability to use python.
 
 Install the jupyterlab extension for sagemath and you will have a very nice development environment.  One way to do this is to activate the sage environment at your 
 command line using conda, then `sage -i jupyterlab_widgets`, but suit yourself.  You can enable the R language, and octave through jupyterlab so that you have all the 
 basic computer tools you need.
 
 Lectures will be a combination of live and recorded sessions.  There will be extended office hours conducted online where I hang out on [Discord](https://discord.com).  I'll
-provide the server location in class, but it you know what the honors discord server is, it will be there.
+provide the server location in class, but it you know what the honors discord server is, it will be there.  When you join, change your nickname on the server to your proper name so I can recognize you.
+
+William Duan will be helping with the course as a ta.  He will be available regulary on discord, as will I.
 
 As the class is small enough, grading will be traditional, a mixture of assignments, a midterm (online) and a final.  You'll have the option of replacing these with indvidual
 projects.
 
-Boilerplate reading list stuff will be added shortly.
 
-The following is a partial list of topics. The readings will be updated frequently so check back here for changes.
 
-# Theory, structural estimation, experiments
+# Legal stuff
+
+Sorry, wish this wasn't necessary.
+
+It is the policy of the VSE to report all violations of UBC’s standards for academic honesty to the office of the Dean of Arts. You must read these policies a [http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0](http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0) In addition to the explicitly stated violations (for example, plagiarism), any student who hires a tutor/editor to help with any portion of their work will be given an automatic grade of zero on their final paper and/or annotated bibliography. Further penalties, in addition to any grade penalties that might apply (such as a zero grade on your final paper), may be levied by the President's Advisory Committee on Student Discipline. Those further penalties could include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. 
+
+Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work.
+
+# The following is a partial list of topics. The readings will be updated frequently so check back here for changes.
+
+## Theory, structural estimation, experiments
 
 1. [Review of Bayesian Equilibrium](https://montoya.econ.ubc.ca/Econ600/bayesian.pdf)
 6. Experiment - Ring Game, courtesty of Terri Kneeland - first look at elementary structural estimation
@@ -43,7 +53,7 @@ The following is a partial list of topics. The readings will be updated frequent
   * [Directed Search notebook (sagemath)](https://montoya.econ.ubc.ca/Econ600/notebooks/directed_search/directed_search_2.ipynb)
   * [Hungarian Algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
   
-# Economics and Computer Science
+## Economics and Computer Science
 3. Bayes Nash Equilibrium - Approximation
   * [Jason Hartline - worst case surplus](http://jasonhartline.com/MDnA/MDnA-chX.pdf)
 10. Ranking Methods
