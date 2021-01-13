@@ -39,12 +39,14 @@ The readings will be updated frequently so check back here for changes.
 ## Theory, structural estimation, experiments
 
 1. [Review of Bayesian Equilibrium](https://montoya.econ.ubc.ca/Econ600/bayesian.pdf)
+  * [Directed Search notebook (sagemath)](https://github.com/michaelpetersubc/notebooks/blob/master/Econ306/directed_search/directed_search_2.ipynb)
+  * [Reading on Directed Search](https://montoya.econ.ubc.ca/Econ600/directed_search.pdf)
 6. Experiment - Ring Game, courtesty of Terri Kneeland - first look at elementary structural estimation
   * [Paper](http://www.tkneeland.com/uploads/9/5/4/8/95483354/ecta11983.pdf)
   * [On github](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ring_game)
   * [a short note explaining the game](https://montoya.econ.ubc.ca/Econ306/terri_experiment.pdf)
 2. Experiment - [Ultimatum Game](https://montoya.econ.ubc.ca/Econ600/mike_reference_offer.pdf)
-    * [On Gitbub](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game)
+    * [On Github](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ultimatum_game)
 3. Auctions
   * [Theory](https://montoya.econ.ubc.ca/Econ600/auctions.pdf)
   * [Data - eBay computer Chips](https://github.com/michaelpetersubc/notebooks/tree/master/processors)
@@ -52,7 +54,7 @@ The readings will be updated frequently so check back here for changes.
 4.  Matching and algorithms
   * [Lecture Notes for deferred acceptance](http://montoya.econ.ubc.ca/Econ600/matching.pdf)
   * [Econjobmarket Network](https://sage.microeconomics.ca) - courtesy of Amedeus D'Souza
-  * [Directed Search notebook (sagemath)](https://montoya.econ.ubc.ca/Econ600/notebooks/directed_search/directed_search_2.ipynb)
+  * 
   * [Hungarian Algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
   
 ## Economics and Computer Science
