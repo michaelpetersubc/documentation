@@ -19,8 +19,20 @@ provide the server location in class, but it you know what the honors discord se
 
 William Duan will be helping with the course as a ta.  He will be available regulary on discord, as will I.
 
-As the class is small enough, grading will be traditional, a mixture of assignments, a midterm (online) and a final.  You'll have the option of replacing these with indvidual
-projects.
+There will be two exams.  The first will be a take home exam handed out in class on February 24 due on the 26th of February.  This will be worth 30% of your final grade.  The final exam will be worth 50% with a time to be determined by UBC.  If you undertake an individual project during the course, you can use this for 20% of your mark so that your final will be worth 30%.  During the final exam, you'll have to adhere to the following rules:
+
+During the final exam, I affirm the following statement:
+
+During the entire course of this exam, I will:
+
+* Keep my webcam and microphone connected and on during the entire length of this exam.
+* Not give or receive any authorized help on this exam.
+* Not open any web browser other the Canvas and the Achieve website. 
+* Not search online at any point in the exam.
+* Not use my phone or any form of messaging to communicate with any other individuals. 
+
+
+
 
 
 
@@ -54,7 +66,6 @@ The readings will be updated frequently so check back here for changes.
 4.  Matching and algorithms
   * [Lecture Notes for deferred acceptance](http://montoya.econ.ubc.ca/Econ600/matching.pdf)
   * [Econjobmarket Network](https://sage.microeconomics.ca) - courtesy of Amedeus D'Souza
-  * 
   * [Hungarian Algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
   
 ## Economics and Computer Science
