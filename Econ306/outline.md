@@ -4,10 +4,30 @@ A course in microeconomic theory for honors students.  The course is primarly an
 
 All the lectures are online.  Some of the lectures will be pre-recorded.
 
-As the class is small, grading will be traditional. There will be four assignments, due dates tba.  You will need to hand in completed versions of the assignments, then you will be expected to correct your exam and resubmit it the week later.  Assignments are worth 20% of the final mark.  The midterm and final are each worth 40% of the final mark.  The midterm will be held is tba.  Exams will be held on line and will be envigilated.
+As the class is small, grading will be traditional. There will be four assignments, due dates tba.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected version the week later.  Assignments are worth 20% of the final mark.  The midterm and final are each worth 40% of the final mark.  The midterm will be held in the usual class time online on February 25. The final exam will be conducted on line at a time to be determined by the University during the final exam period. 
+
+
+During the entire course of each online exam, you agree to:
+
+* Keep my webcam and microphone connected and on during the entire length of this exam.
+* Not give or receive any authorized help on this exam.
+* Not open any web browser. 
+* Not search online at any point in the exam.
+* Not use my phone or any form of messaging to communicate with any other individuals. 
 
 You will get no credit for missed assignments.  Missed Miderm tests will result in weight being shifted to the final exam.  In either case, you must notify me by the day after the exam.  A missed final exam will be rewritten in the next available sitting, probably mid to late summer.
 
+
+
+
+
+
+# Legal stuff
+
+
+It is the policy of the VSE to report all violations of UBC’s standards for academic honesty to the office of the Dean of Arts. You must read these policies a [http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0](http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0) In addition to the explicitly stated violations (for example, plagiarism), any student who hires a tutor/editor to help with any portion of their work will be given an automatic grade of zero on their final paper and/or annotated bibliography. Further penalties, in addition to any grade penalties that might apply (such as a zero grade on your final paper), may be levied by the President's Advisory Committee on Student Discipline. Those further penalties could include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. 
+
+Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work.
 
 
 ### Math Preparation 
