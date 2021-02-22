@@ -65,6 +65,7 @@ The readings will be updated frequently so check back here for changes.
   * [Data - cameras on eBay](https://github.com/michaelpetersubc/notebooks/tree/master/eBay)
 4.  Matching and algorithms
   * [Lecture Notes for deferred acceptance](http://montoya.econ.ubc.ca/Econ600/matching.pdf)
+  * [Text version and a case study](http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf)
   * [Econjobmarket Network](https://sage.microeconomics.ca) - courtesy of Amedeus D'Souza
   * [Hungarian Algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
   
