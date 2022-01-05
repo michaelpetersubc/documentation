@@ -2,9 +2,12 @@
 
 A course in microeconomic theory for honors students.  The course is primarly an illustration of how game theory is used in various economic applications. A series of readings is provided below. To prepare for the course, make sure you understand the mathematics that is described in the Math Tutorial below. There is no required textbook for the course. Many of the lectures cover material that is covered in Preston McAfee's online text, but the readings that are listed (and will be listed) here are all that is required for the course. You can get the pdf version of McAfee's book at [https://www.mcafee.cc/Papers/Introecon/](https://www.mcafee.cc/Papers/Introecon/).  
 
-All the lectures are online.  Some of the lectures will be pre-recorded.
+Since the honors course is the typical route to the honors thesis, the course is designed to help you learn how to use microeconomic theory when you do your thesis.
+To accomplish this, we'll be especially interested in understanding how some of the most basic ideas in microeconomics and game theory are reflected in data. We'll be using some very simple data analysis.  We'll also make use of computer algebra to some degree.  You can help yourself prepre by learning how to use jupyter notebooks.  UBC has an online version of jupyter notebooks you can use at [https://ubc.syzygy.ca](https://ubc.syzygy.ca).  It will give you access to 2 languages, python and R. We'll use a bit of python when we illustrate the theory.
 
-As the class is small, grading will be traditional. There will be four assignments, due dates tba.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected version the week later.  Assignments are worth 20% of the final mark.  The midterm and final are each worth 40% of the final mark.  The midterm will be held in the usual class time online on February 25. The final exam will be conducted on line at a time to be determined by the University during the final exam period. 
+The lectures will be online until conditions permit.  
+
+As the class is small, grading will be traditional. There will be four assignments, due dates tba.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected version the week later.  Assignments are worth 20% of the final mark.  The midterm and final are each worth 40% of the final mark.  The midterm will be held in the usual class time on March 1.  Since it seems unlikely that we'll be able to hold an in person exam that everyone can attend, it will be online unless conditions improve. By spring the final exam will be held during the regular university exam period. 
 
 
 During the entire course of each online exam, you agree to:
@@ -13,32 +16,26 @@ During the entire course of each online exam, you agree to:
 * Not give or receive any authorized help on this exam.
 * Not open any web browser. 
 * Not search online at any point in the exam.
-* Not use my phone or any form of messaging to communicate with any other individuals. 
+* Not use your phone or any form of messaging to communicate with any other individuals. 
 
 You will get no credit for missed assignments.  Missed Miderm tests will result in weight being shifted to the final exam.  In either case, you must notify me by the day after the exam.  A missed final exam will be rewritten in the next available sitting, probably mid to late summer.
 
 
-
-
-
-
 # Legal stuff
-
 
 It is the policy of the VSE to report all violations of UBC’s standards for academic honesty to the office of the Dean of Arts. You must read these policies a [http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0](http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0) In addition to the explicitly stated violations (for example, plagiarism), any student who hires a tutor/editor to help with any portion of their work will be given an automatic grade of zero on their final paper and/or annotated bibliography. Further penalties, in addition to any grade penalties that might apply (such as a zero grade on your final paper), may be levied by the President's Advisory Committee on Student Discipline. Those further penalties could include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. 
 
-Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work.
+Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work. Be very careful about copying and pasting material from the internet into your assignments as this will typically be treated as plagiarism.
 
 
 ### Math Preparation 
 
-* This link leads to a math tutorial written by Martin Osborne at U of Toronto. It contains most of what you will need to know about math as an economics student. Browse through to refresh your knowledge, then go back to it when you encounter a mathematical concept that you don't understand. [Martin Osborne&#39;s Tutorial](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i).
-* You will probably find it helpful to install some software on your computer.  This is primarily a theory course, but in a couple of places you'll see some data
-  will help you understand many of the concepts.  We'll also use some mathematics software that you'll find useful pretty much whenever you are try to find theoretical solutioos to problems. You can find python and R on  [https://syzygy.ca](https://syzygy.ca).  However, you'll find it more useful to install jupyter notebooks using [sagemath](https://sagemath.org) on your own computer.  This will give you a symbolic algegra program similar to mathematica or maple and a python kernel.  If you install jupyterlab you'll have access to a symbolic math program, python, a latex editor and a markdown editor, all in a tab in your web browser.  This course outline was written in a jupyter notebook. Notebooks are interactive so you can experiment with programming at the same time that you are learning economics. You'll have access to a number of jupyter notebooks used in the course on [Github](https://github.com).  Since github displays notebooks very nicely, I'll provide some direct links to course notebooks. 
+This link leads to a math tutorial written by Martin Osborne at U of Toronto. It contains most of what you will need to know about math as an economics student. Browse through to refresh your knowledge, then go back to it when you encounter a mathematical concept that you don't understand. [Martin Osborne&#39;s Tutorial](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i).
+
 
 ### Basic Game Theory
 
-The first part of the course reviews basic game theory.  It then proceeds to show you how this theory is used in some very well known economics problems.
+The first part of the course reviews basic game theory.  It then proceeds to show you how this theory is used in some very well known economic problems.
 
 1. Elementary stuff 
   * [Matrix Games](http://montoya.econ.ubc.ca/Econ306/mcafee_matrix_games.pdf) 
@@ -52,12 +49,12 @@ The first part of the course reviews basic game theory.  It then proceeds to sho
 2. Matching and your first look at algorithms in economics
   * [Deferred Acceptance](http://www.nber.org/papers/w13225.pdf) - a paper by Al Roth describing the history, theory and practice of this famous algorithm
   * [Theory and Mechanics of the deferred acceptance algorithm](http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf)
-  * [The Hungarian Algorithm for task allocation and matching with transferable utility](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf) (this file is preliminary)
+  * [The Hungarian Algorithm for task allocation and matching with transferable utility](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
   * [A very nice dash app courtesty of Amedeus D'Souza](https://sage.microeconomics.ca) that will show you how matching works in the market for economics ph'd students.
 
 3. Auctions - Theory with Data
   * [Position Auctions](http://montoya.econ.ubc.ca/Econ306/position.pdf) - pricing google sponsored links (sort of)
-  * [Various well know auctions](http://montoya.econ.ubc.ca/Econ600/auction_reading.pdf)
+  * [Various well known auctions](http://montoya.econ.ubc.ca/Econ600/auction_reading.pdf)
   * [The discussion in McAfee since that is what he is famous for](http://montoya.econ.ubc.ca/Econ306/auctions_mcafee.pdf)
   * [Double Auctions](http://montoya.econ.ubc.ca/Econ306/double_auctions.pdf) - an auction as a market
   * [Browse Data from eBay processor auctions in 2001](https://montoya.econ.ubc.ca/eBay/main)
