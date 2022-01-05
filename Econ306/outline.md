@@ -9,6 +9,8 @@ The lectures will be online until conditions permit.
 
 As the class is small, grading will be traditional. There will be four assignments, due dates tba.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected version the week later.  Assignments are worth 20% of the final mark.  The midterm and final are each worth 40% of the final mark.  The midterm will be held in the usual class time on March 1.  Since it seems unlikely that we'll be able to hold an in person exam that everyone can attend, it will be online unless conditions improve. By spring the final exam will be held during the regular university exam period. 
 
+Office hours will be held on discord.  Get youself an account if you don't already have one at [https://discord.com](https://discord.com).  I'll send you the link to the honors server before the class starts.  You can contact me pretty much anytime on discord and arrange a meeting so there won't be formal office hours.  The ta for the course will be Anubhav Jha.  He will be available on discord, but his exact schedule is yet to be arranged.
+
 
 During the entire course of each online exam, you agree to:
 
