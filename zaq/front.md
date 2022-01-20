@@ -3,7 +3,9 @@
     <td><img src="https://teamzaq.ca/assets/gallery/eurasia.jpg" alt="eurasia" width="400"></td>
     <td>
       Rides<br>
-      1. [Kiwi Cross](https://teamzaq.ca/rides)
+      <ol>
+        <li><a href="https://teamzaq.ca/rides">Kiwi Cross</a></li>
+      </ol>
     </td>
   </tr>
 </table>
