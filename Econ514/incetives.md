@@ -19,16 +19,9 @@ Thomas Chan is the ta for the course.  He is doing very computational research w
 
 Your mark will be based on two assignments and two projects.  Assignments are due January 31 and March 28.  Projects are due February 21 and the last day of class.  Assignments are each worth 20 marks.  The first project is worth 20 marks, and the final project 40 marks.  You should be able to do the projects using data available in the notes and worksheets associated with the course.  You can also do a theoretical project.  In either case you'll have to get approval for your projects before hand.  Students will have the opportunity to present their projects in class while they are in progress.
 
+If you participate in this class you are bound by the following [legal stuff](https://montoya.econ.ubc.ca/Econ514/legal_stuff.md).  So please read it.
 
-# Legal stuff
 
-Sorry, wish this wasn't necessary.
-
-It is the policy of the VSE to report all violations of UBC’s standards for academic honesty to the office of the Dean of Arts. You must read these policies a [http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0](http://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,286,0,0) In addition to the explicitly stated violations (for example, plagiarism), any student who hires a tutor/editor to help with any portion of their work will be given an automatic grade of zero on their final paper and/or annotated bibliography. Further penalties, in addition to any grade penalties that might apply (such as a zero grade on your final paper), may be levied by the President's Advisory Committee on Student Discipline. Those further penalties could include a notation on your transcript indicating that you have committed an academic offence, failure of the course, and/or suspension from the university. 
-
-Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work.
-
-Submitting a project or assignment that has been completed  by someone else is considered plagiarism. (It would also be a complete waste of time at this point in your career.
 
 # The following is a partial list of topics. 
 
