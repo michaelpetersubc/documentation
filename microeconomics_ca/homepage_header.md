@@ -13,4 +13,4 @@ Log in with your existing credentials (or click on Forgot your password, since y
 The deadline for your application is Feb 15, 2023. We will draw up a program early in March.
 
 The SFU/UBC micro theory workshop will continue this fall.  Seminars are held at 10:00 AM Pacific Time, and are listed below.  There is no public
-screening this year, but if you are interesting in participating in the zoom panel email anyone you know at SFU or UBC and asked to be placed on the email list for the zoom credentials.
+screening this year, but if you are interested in participating in the zoom panel email anyone you know at SFU or UBC and asked to be placed on the email list for the zoom credentials.
