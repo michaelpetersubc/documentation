@@ -1,7 +1,7 @@
 # Microeconomics in Canada
 
-The CETC-2023 will take place at Simon Fraser University, Harbour Centre, Vancouver from Friday May 5 through May 7, 2023. It is being organized
-by David Freeman, Lucas Herrenbrueck, Shih En Lu and Arthur Robson.
+The 2023 edition of the Canadian Economic Theory Conference will be held
+from Friday May 5 to Sunday May 7, 2023 at Simon Fraser University, Harbour Centre, Vancouver, BC. This edition is being jointly sponsored by UBC and SFU. It is being organized by David Freeman, Lucas Herrenbrueck, Shih En Lu and Arthur Robson from SFU and Vitor Farinha Luz, Li Hao, Wei Li, Mike Peters, and Sergei Severinov, from UBC. 
 
 This has become a great conference with participation that transcends its humble Canadian roots. We would love you to participate.
 
