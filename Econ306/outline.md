@@ -1,20 +1,30 @@
 ### Outline
 
-A course in microeconomic theory for honors students.  The course is primarly an illustration of how game theory is used in various economic applications. A series of readings is provided below. To prepare for the course, make sure you understand the mathematics that is described in the Math Tutorial below. There is no required textbook for the course. Many of the lectures cover material that is covered in Preston McAfee's online text, but the readings that are listed (and will be listed) here are all that is required for the course. You can get the pdf version of McAfee's book at [https://mc4f.ee/Papers/Introecon/](https://mc4fee/Papers/Introecon/).  
+This year a shortened version of the usual honors course in microeconomic theory.  Since you have already covered the core theory with Prof.  Severinov, we'll spend most of the time on applications.  Hopefully by the end of the course you'll get some idea of how you can use the theory you've learned into part of your regular practice as an economist, no matter what field you eventually to choose to be part of.
+   
+You are honors students, the class is small, you'll get lots of attention as you proceed. Accordingly at lot will be expected of you.  Many things will be new.  
 
-Since the honors course is the typical route to the honors thesis, the course is designed to help you learn how to use microeconomic theory when you do your thesis.
-To accomplish this, we'll be especially interested in understanding how some of the most basic ideas in microeconomics and game theory are reflected in data. We'll be using some very simple data analysis.  We'll also make use of computer algebra to some degree.  You can help yourself prepre by learning how to use jupyter notebooks.  UBC has an online version of jupyter notebooks you can use at [https://ubc.syzygy.ca](https://ubc.syzygy.ca).  It will give you access to 2 languages, python and R. We'll use a bit of python when we illustrate the theory.  You'll be using them in your other courses as well.
+To start, notice that nothing about this section of the course can be found on canvas.  The primary means of interaction during the course will be on discord.  I'll post links to readings, and all course notices and assignments there. Get youself an account if you don't already have one at [https://discord.com](https://discord.com).  You'll get a couple of invitations to join the Econ306 server before the first class. 
+
+The discord server will give you instant access to me, and connect you with some of the past students from this course.  Past students are usually happy to provide information that will help you through.  Many of the students who are now predocs at other universities still use discord.  Many of you will be interested in that option as you decide what to do once you graduate.
+
+I won't hold office hours for this course.  Instead you can arrange to meet with me pretty much anytime we are both free by sending me a message on discord.  We can meet either virtually using the voice channel on discord, or in person.  You'll fihd that you cannot be passive in Econ306 - the onus is on you to follow up with me to make sure you understand the concepts and methods we'll be using.
+
+To make the theory come alive for you we'll need to try it with some data.  You can't avoid software if you want to do that.  One of the most useful tools for people who need to make use of data but who otherwise aren't computer programmers is jupyter notebooks.  UBC has an online version of jupyter notebooks you can use at [https://ubc.syzygy.ca](https://ubc.syzygy.ca).  It will give you access to 2 languages, python and R.  Python is for computation and is used when you eventually do ai.  R is statistical software.  You'll use both in your other courses if you haven't already.
+
+I'll also use the julia language, mostly for illustration.  It isn't particularly hard to add julia to your jupyterlab installation.  You can google the instructions.
 
 You can install jupyterlab on your own computer.  I have found the best way to do it is to use conda.  For example, for windows [https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html).  You can find the installation instructions for mac and linux easily by looking it up.  Conda will create and environment in which you can install software for your own user account so you won't need root access and won't have to worry about messing up your system files.
 
-As the class is small, grading will be traditional. There will be four assignments, due dates tba.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected version the week later.  Assignments are worth 20% of the final mark.  The midterm and final are each worth 40% of the final mark.  The midterm will be held in the usual class time on March 2.  The final exam will be held during the regular university exam period. 
+Grading is traditional. There will likely be three assignments, due dates tba.  Assignments will be posted in the announcements channel on discord.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected versions one week later.  You will hand in the assignments through discord.  
 
-One of the primary means of interaction during the cours will be on discord.  I'll post course notices and assignments there.  There will be no regularly set office hours, but you can contact me any time on discord to set up a meeting.  We can also meet online using discord if you want.  Get youself an account if you don't already have one at [https://discord.com](https://discord.com).  The server will connect you with some of the past students from the course.  They are usually happy to provide information that will help you through.  There is lots of information about predocs for example.  You may also be able to talk to some students who are now doing predocs.
+The assignments won't be graded in the traditional way.  The ta will verify that you have completed them.  Then after the answers are explained in tutorial, the ta will check to make sure you have updated your answers correctly the following week.  
 
-The discord server supports math with latex, which you'll need to learn if you go on to grad school. I'll send you the link to the honors server before the class starts.   The ta for the course will be Igor Carreira, who is also ta for 397.  He will be available on discord, but his exact schedule is yet to be arranged.
+There will be no answer keys, so it is important that you make sure you understand the questions and answers.  Make an appointment with me to discuss them if you don't. Assignments are worth 40% of the final mark for this 6 week session.  The final exam will count for 60% of your mark in this session.  
 
+The final will be in person in the usual university exam period.  The date is tba. 
 
-You will get no credit for missed assignments.  Missed Miderm tests will result in weight being shifted to the final exam.  In either case, you must notify me by the day after the exam.  A missed final exam will be rewritten in the next available sitting, probably mid to late summer.
+You will get no credit for missed assignments - that means both your original answers and your corrections.  A missed final exam will be rewritten in the next available sitting, probably mid to late summer.  If you miss the scheduled final you must submit a request for a an [academic concession](https://www.arts.ubc.ca/degree-planning/academic-performance/academic-concession/). 
 
 
 # Legal stuff
@@ -31,29 +41,23 @@ This link leads to a math tutorial written by Martin Osborne at U of Toronto. It
 
 ### Basic Game Theory
 
-The first part of the course reviews basic game theory.  It then proceeds to show you how this theory is used in some very well known economic problems.
+This was covered in the first 6 weeks.
 
-1. Elementary stuff 
-  * [Matrix Games](http://montoya.econ.ubc.ca/Econ306/mcafee_matrix_games.pdf) 
-  * [An Economics Experiment - courtesy of Terri Kneeland](https://github.com/michaelpetersubc/notebooks/blob/master/Econ515/ring_game/ring_game.ipynb).  To get the data from this experiment, you'll need to copy it directly from [https://github.com/michaelpetersubc/notebooks/blob/master/Econ515/ring_game/ring_game.ipynb](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ring_game).  
-  *  [Price of Anarchy](http://montoya.econ.ubc.ca/Econ306/price_of_anarchy.pdf). Using game theory to start to think about computer networks.
-  * [A jupyter notebook version of the price of anarchy](https://github.com/michaelpetersubc/notebooks/blob/master/Econ306/price_of_anarchy/306_anarchy.ipynb)
-  * [The Centipede game](http://montoya.econ.ubc.ca/Econ306/centipede_game.pdf) A simple extensive form game.
-  * You may want to check Section 7.2 -7.4 in McAfee for a discussion of subgame perfect equilibrium.
+The first part of the course reviews basic game theory.  
+
+### Applications
+
+1. Experiments and a simple introduction to structural estimation
+   * [An Economics Experiment - courtesy of Terri Kneeland](https://github.com/michaelpetersubc/notebooks/blob/master/Econ515/ring_game/ring_game.ipynb).  To get the data from this experiment, you'll need to copy it directly from [https://github.com/michaelpetersubc/notebooks/blob/master/Econ515/ring_game/ring_game.ipynb](https://github.com/michaelpetersubc/notebooks/tree/master/Econ515/ring_game).  
+
+2. Frictional Trading in Labor Markets, Trading Networks
   * A discussion of [Directed Search](http://montoya.econ.ubc.ca/Econ306/directed_search.pdf) which will show you how to use subgame perfection and incomplete information to discuss a somewhat macro-ish topic.
+  * [Reverse Directed Search](https://montoya.econ.ubc.ca/papers/markets/markets.pdf)  Just read the introduction.  I'll provide a much simpler version of the math shortly by looking at a special case.
+  * [Notebooks to accompany directed search](https://github.com/michaelpetersubc/notebooks/tree/master/Econ306/directed_search)
 
-2. Matching and your first look at algorithms in economics
+2. Algorithms in economics
   * [Deferred Acceptance](http://www.nber.org/papers/w13225.pdf) - a paper by Al Roth describing the history, theory and practice of this famous algorithm
   * [Theory and Mechanics of the deferred acceptance algorithm](http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf)
   * [Competitive equilibrium](https://montoya.econ.ubc.ca/Econ514/competitive_equilibrium.pdf)
-  * [The Hungarian Algorithm for task allocation and matching with transferable utility](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
-  * [A very nice dash app courtesty of Amedeus D'Souza](https://sage.microeconomics.ca) that will show you how matching works in the market for economics ph'd students.
-
-3. Auctions - Theory with Data
-  * [Position Auctions](http://montoya.econ.ubc.ca/Econ306/position.pdf) - pricing google sponsored links (sort of)
-  * [Various well known auctions](http://montoya.econ.ubc.ca/Econ600/auction_reading.pdf)
-  * [The discussion in McAfee since that is what he is famous for](http://montoya.econ.ubc.ca/Econ306/auctions_mcafee.pdf)
-  * [Double Auctions](http://montoya.econ.ubc.ca/Econ306/double_auctions.pdf) - an auction as a market
-  * [Browse Data from eBay processor auctions in 2001](https://montoya.econ.ubc.ca/eBay/main)
-  * [Counterfactual exercise](https://github.com/michaelpetersubc/notebooks/blob/master/processors/ebay-week6.ipynb) courtesy of Wenxin Ma.
-  * [Camera data from eBay](https://github.com/michaelpetersubc/notebooks/tree/master/eBay).  This collection has camera data and a couple of notebooks that start to analyze it.
+  * [The Hungarian Algorithm - matching with transferable utility](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
+  * [Julia version of the algorithm by James Yu][https://github.com/jbrightuniverse/HungarianAlg.jl]
