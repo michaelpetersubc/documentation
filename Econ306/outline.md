@@ -60,4 +60,4 @@ The first part of the course reviews basic game theory.
   * [Theory and Mechanics of the deferred acceptance algorithm](http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf)
   * [Competitive equilibrium](https://montoya.econ.ubc.ca/Econ514/competitive_equilibrium.pdf)
   * [The Hungarian Algorithm - matching with transferable utility](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
-  * [Julia version of the algorithm by James Yu][https://github.com/jbrightuniverse/HungarianAlg.jl]
+  * [Julia version of the algorithm by James Yu](https://github.com/jbrightuniverse/HungarianAlg.jl}
