@@ -10,7 +10,7 @@ linked below.  You can read a
 
 * [The Mapinator Classification of Economics Departments](https://montoya.econ.ubc.ca/papers/markets/markets.pdf) with James Yu
 * [Rational Ignorance in Mechanism Design: Equal Priority Auctions](/wp/unobserved_mechanisms/equal_priority_auctions.pdf) with Li Hao
-* <a href="http://montoya.econ.ubc.ca/mike/can_ejm_help/can_ejm_help.pdf">Can Econjobmarket help Canadian Departments</a> with Michel Poitevin and Kim Nguyen
+* <a href="http://montoya.econ.ubc.ca/papers/can_ejm_help/can_ejm_help.pdf">Can Econjobmarket help Canadian Departments</a> with Michel Poitevin and Kim Nguyen
 * <a href="http://montoya.econ.ubc.ca/mike/unobserved_mechanisms/working_paper/unobserved_mechanisms.pdf">Unobserved Mechanisms(Revised Aug/23)</a> with Li Hao.
 * <a href="http://montoya.econ.ubc.ca/mike/matching_by_luck/working_paper/transitions.pdf">Understanding Transitions Using DIrected Search</a> with Kun Li and Pai Xu
 * <a href="/mike/digital_markets.pdf"> Can Mechanism Designers Exploit Buyers Market Information</a> May 2015
