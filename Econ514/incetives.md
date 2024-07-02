@@ -37,10 +37,10 @@ The readings will be updated frequently so check back here for changes.
   * [Data - cameras on eBay](https://github.com/michaelpetersubc/notebooks/tree/master/eBay)
   * [Equal Priority Auctions](https://lihao.microeconomics.ca/sites/lihao.microeconomics.ca/files/content/research/Mike.pdf)
   * [Using computation to explore a theoretical model](https://github.com/michaelpetersubc/notebooks/blob/master/unobserved_mechanisms/calculate_equiibrium.ipynb)
-4. Matching - coarse types
-  * [Phd job market in economics](https://montoya.econ.ubc.ca/papers/markets/markets.pdf)
-  * [Econjobmarket Network](https://sage.microeconomics.ca) - courtesy of Amedeus D'Souza
+4. Matching
+  * [Frictional Matching - the impact of AI](https://montoya.econ.ubc.ca/papers/markets/markets.pdf)
+  * [The Mapinator](https://sage.microeconomics.ca) - courtesy of Amedeus D'Souza
 4.  Matching and algorithms
-  * [Lecture Notes for deferred acceptance](http://montoya.econ.ubc.ca/Econ600/matching.pdf)
+  * [Deferred acceptance](http://montoya.econ.ubc.ca/Econ600/matching.pdf)
   * [Text version and a case study](http://montoya.econ.ubc.ca/Econ306/deferred_acceptance.pdf)  
-  * [Vickrey Mechanisms and Matching games using the Hungarian algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
+  * [Computational Matching using the Hungarian algorithm](https://montoya.econ.ubc.ca/Econ514/hungarian.pdf)
