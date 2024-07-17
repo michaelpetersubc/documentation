@@ -8,13 +8,14 @@ linked below.  You can read a
 
 ### Research
 
-* [The Mapinator Classification of Economics Departments](https://montoya.econ.ubc.ca/papers/markets/markets.pdf) with James Yu
+* [The Mapinator Classification: Tier Estimation](https://montoya.econ.ubc.ca/papers/markets/markets_estimation.pdf) with James Yu
+* [The Mapinator Classification: Theory](https://montoya.econ.ubc.ca/papers/markets/markets.pdf)
 * [Rational Ignorance in Mechanism Design: Equal Priority Auctions](/wp/unobserved_mechanisms/equal_priority_auctions.pdf) with Li Hao
 * <a href="http://montoya.econ.ubc.ca/papers/can_ejm_help/can_ejm_help.pdf">Can Econjobmarket help Canadian Departments</a> with Michel Poitevin and Kim Nguyen
 * <a href="http://montoya.econ.ubc.ca/papers/unobserved_mechanisms/working_paper/unobserved_mechanisms.pdf">Unobserved Mechanisms(Revised Aug/23)</a> with Li Hao.
 * <a href="http://montoya.econ.ubc.ca/papers/matching_by_luck/working_paper/transitions.pdf">Understanding Transitions Using DIrected Search</a> with Kun Li and Pai Xu
-* <a href="/papers/digital_markets.pdf"> Can Mechanism Designers Exploit Buyers Market Information</a> May 2015
-* <a href="/papers/ca_survey.pdf"> Survey on Competing Mechnisms 2 - The revelation principle</a> Canadian Journal of Economics 47(2), May 2014, pages 373-397.
+* <a href="/papers/digital_markets/digital_markets.pdf"> Can Mechanism Designers Exploit Buyers Market Information</a> May 2015
+* <a href="/papers/ca_survey/ca_survey.pdf"> Survey on Competing Mechnisms 2 - The revelation principle</a> Canadian Journal of Economics 47(2), May 2014, pages 373-397.
 * <a href="/papers/matching_by_luck.pdf"> Matching by Luck or Search: Evidence from the Executive Labor Market</a> with Pai Xu  and Kun Li Jan 2014)
 * <a href="http://montoya.econ.ubc.ca/papers/reciprocal_mechanisms/reciprocal_mechanisms.pdf">Reciprocal Relationships and Mechanism Design </a> with Gorkem Celik  to appear in the Canadian Journal of Economics, 2015
 * <a href="/papers/competing.pdf"> A Brief Survey of ideas in the Competing Mechanisms literature</a> written for the Handbook of Market Design. Last Revised: 2010-08-24 14:18:45 -0700 (Tue, 24 Aug 2010)(Revision: 2)
