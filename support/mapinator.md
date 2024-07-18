@@ -9,7 +9,9 @@ Using some more detailed theory and econometrics, it is possible to do things li
 
 The data also makes it possible to provide insights into trading networks more broadly.
 
-The mapinator classification classifies the set of universities according to their placements.  The classification is estimated.  Details can be found in [this paper](https://montoya.econ.ubc.ca/papers/markets/markets_estimation.pdf).  The best way to show what the classificationd does it just to illustrate with the adjacency matrix that was estimated in that paper
+The mapinator classification partitions the set of universities according to their placements.  Two universities in the same partition element of this classification will have similar placement and hiring histories. The way this classification is constructed is described in [this paper](https://montoya.econ.ubc.ca/papers/markets/markets_estimation.pdf).  
+
+The classification gives an alternative description of the trading network to the one given in the mapinator world map.  The best way to show what the classificationd does it just to illustrate with the adjacency matrix that was estimated the research paper described above.
 
 |                                   | **Tier 1** | **Tier 2** | **Tier 3** | **Tier 4** | **Tier 5** | **Row Totals** |
 |----------------------------------:|-----------:|-----------:|-----------:|-----------:|-----------:|---------------:|
@@ -27,10 +29,14 @@ The mapinator classification classifies the set of universities according to the
 | Teaching Universities (642 insts) | 240        | 377        | 420        | 159        | 69         | 1265           |
 | Column Totals                     | 5769       | 5436       | 3950       | 1530       | 787        | 17472          |
 
-The rows represent groups of hiring insitutions.  Along the row the cells represent the number of graduates that the hiring institutions in the row hired from gradautes from the corresponding column.
+The rows represent groups of hiring insitutions.  Along the row the cells represent the number of graduates that the hiring institutions in the row hired from graduates from institutions in the corresponding column.
 
-The classification results can be viewed at [https://support.econjobmarket.org/universities](https://support.econjobmarket.org/universities). 
+To view the classification in detail, go to [https://support.econjobmarket.org/universities](https://support.econjobmarket.org/universities).  By clicking on the university name you'll be able to see a breakdown of their placement and hiring results.  The detailed description also provides quantile measures for both hiring and placement values to show where the university stands within the tier that is was placed.  Again for details, see the paper linked just before the table.
 
-By clicking on the university name you'll be able to see a detailed breakdownn of their results.  Again for details, see the paper linked just before the table.
+If you want to read the theory on which the classification is based, it is at [https://montoya.econ.ubc.ca/papers/markets/markets.pdf](https://montoya.econ.ubc.ca/papers/markets/markets.pdf).
 
-Finally, if you want to read the theory on which the classification is based, it is at [https://montoya.econ.ubc.ca/papers/markets/markets.pdf](https://montoya.econ.ubc.ca/papers/markets/markets.pdf)
+Much more information about the project is collected in the [mapinator github repository](https://github.com/michaelpetersubc/mapinator/tree/master).  
+
+The [mapinator_readme](https://github.com/michaelpetersubc/mapinator/blob/master/mapinator_readme/mapinator_readme.md) gives a descriptive overview of the data and the people who created it.  The api directory gives instructions on how to access the public database programmatically.
+
+The files in the estimation directory are out of date and probably don't work.  The branch `run_id_5` contains the code and data associated with the estimates presented above.
