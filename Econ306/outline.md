@@ -1,8 +1,10 @@
 ### Outline
 
-This year a shortened version of the usual honors course in microeconomic theory.  Since you have already covered the core theory with Prof.  Severinov, we'll spend most of the time on applications.  Hopefully by the end of the course you'll get some idea of how you can use the theory you've learned into part of your regular practice as an economist, no matter what field you eventually to choose to be part of.
-   
-You are honors students, the class is small, you'll get lots of attention as you proceed. Accordingly at lot will be expected of you.  Many things will be new.  
+This course is an advanced course on microeconomic theory and how to use it. The first part of the course will be a fairly insense discussion of game theory from basics through Bayesian equilibrium.  You'll need a game theoretic approach to understand most modern topics in microeconomics.  It is important to understand what it game theory adds to what you learned in econ 101.
+
+The second half of the course is focused on doing things with the theory.  We'll go over applications in experimental economics, auctions, matching, and trading networks.  We'll also discuss some more advanced matching algorithms.  In each case well go throgh the core theory and show how to take it all the way through available data so you can see the kinds of things you can accomplish with it.
+
+Since this has traditionally been an honors class with limited enrollment, you'll get lots of attention as you proceed. Accordingly at lot will be expected of you.  Many things will be new.  
 
 To start, notice that nothing about this section of the course can be found on canvas.  The primary means of interaction during the course will be on discord.  I'll post links to readings, and all course notices and assignments there. Get youself an account if you don't already have one at [https://discord.com](https://discord.com).  You'll get a couple of invitations to join the Econ306 server before the first class. 
 
@@ -16,7 +18,7 @@ I'll also use the julia language, mostly for illustration.  It isn't particularl
 
 You can install jupyterlab on your own computer.  I have found the best way to do it is to use conda.  For example, for windows [https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html).  You can find the installation instructions for mac and linux easily by looking it up.  Conda will create and environment in which you can install software for your own user account so you won't need root access and won't have to worry about messing up your system files.
 
-Grading is traditional. There will likely be three assignments, due dates tba.  Assignments will be posted in the announcements channel on discord.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected versions one week later.  You will hand in the assignments through discord.  
+Grading is traditional. There will be 4-6 assignments, due dates tba.  Assignments will be posted in the announcements channel on discord.  You will need to hand in completed versions of the assignments, then you will be expected to correct your assignment and resubmit your corrected versions one week later.  You will hand in the assignments through discord.  
 
 The assignments won't be graded in the traditional way.  The ta will verify that you have completed them.  Then after the answers are explained in tutorial, the ta will check to make sure you have updated your answers correctly the following week.  
 
