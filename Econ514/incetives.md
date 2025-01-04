@@ -8,6 +8,8 @@ At this point you will have become familiar with [jupyter notebooks](https://jup
 
  There is a collection of notebooks you can use during the course.  Clone them from [https://github.com/michaelpetersubc/notebooks](https://github.com/michaelpetersubc/notebooks).
 
+ It will be assumed that you have read and understand the university required reading in this link - [legal disclamer](legal_stuff.md)
+
 
 # The following is a partial list of topics. 
 

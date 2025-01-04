@@ -6,4 +6,4 @@ It is the policy of the VSE to report all violations of UBC’s standards for ac
 
 Notice in particular that UBC prohibits any student from hiring a tutor or editor to help them with their work.
 
-Submitting a project or assignment that has been completed  by someone else is considered plagiarism. (It would also be a complete waste of time at this point in your career.
+Submitting a project or assignment that has been completed  by someone else is considered plagiarism. (It would also be a complete waste of time at this point in your career).
